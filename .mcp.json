@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "peppol-invoice-checker": {
+      "type": "http",
+      "url": "https://businessdesk.belfavn.com/api/mcp"
+    }
+  }
+}

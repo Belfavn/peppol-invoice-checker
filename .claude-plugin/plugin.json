@@ -1,0 +1,14 @@
+{
+  "name": "peppol-invoice-checker",
+  "displayName": "Peppol Invoice Checker",
+  "version": "0.1.0",
+  "description": "Validate, explain and draft Belgian Peppol (UBL / BIS Billing 3.0) e-invoices, and check EU VAT numbers, in English, French or Dutch.",
+  "author": {
+    "name": "Belfavn",
+    "url": "https://belfavn.com"
+  },
+  "homepage": "https://businessdesk.belfavn.com",
+  "repository": "https://github.com/belfavn/peppol-invoice-checker",
+  "license": "MIT",
+  "keywords": ["peppol", "e-invoicing", "ubl", "belgium", "vat", "invoice", "bookkeeping"]
+}
